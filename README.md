@@ -1,7 +1,7 @@
 # Expo Deployment
 A simple and open source GitHub app to simplify the deployment process of Expo Applications, created by the community for the community.
 
-[![Install Expo Deployment!](https://img.shields.io/badge/Install%20Expo%20Deployment-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/apps/expo-deployment) <sub>_note: not available yet_</sub>
+<!--[![Install Expo Deployment!](https://img.shields.io/badge/Install%20Expo%20Deployment-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/apps/expo-deployment) <sub>_note: not available yet_</sub>-->
 
 ### About Expo Deployment
 A simple and open source GitHub app to simplify the deployment process of Expo Applications, created by the community for the community.
